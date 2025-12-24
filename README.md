@@ -44,7 +44,7 @@ This system enables businesses to:
 
 ## View the Project
 
-📓 [Notebook](notebooks/sales_forecasting.ipynb) | 📊 [Dashboard](dashboard/sales_dashboard.pbix) | 📈 [Results](outputs/)
+📓 [Notebook](notebooks) | 📊 [Dashboard](dashboards) | 📈 [Data](data)
 
 ## What I Learned
 
