@@ -55,7 +55,7 @@ This system enables businesses to:
 
 ---
 
-**Author**: [Your Name](https://linkedin.com/in/your-profile)  
-**Connect**: [GitHub](https://github.com/your_username) | [Email](mailto:your.email@example.com)
+**Author**: [Derrick Rajkumar](https://www.linkedin.com/in/derrick-rajkumar-8391781bb/)  
+**Connect**: [GitHub](https://github.com/derrickrajkumar10-tech) | [Email](mailto:derrick.rajkumar10@gmail.com)
 
 ⭐ Star this repo if you found it useful!
