@@ -25,7 +25,7 @@
         "colab_type": "text"
       },
       "source": [
-        "<a href=\"https://colab.research.google.com/github/derrickrajkumar10-tech/FUTURE_ML_01/blob/main/notebooks/Tuning_Prophet\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+        "<a href=\"https://colab.research.google.com/github/derrickrajkumar10-tech/FUTURE_ML_01/blob/main/notebooks\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
       ]
     },
     {
@@ -48,7 +48,7 @@
       "metadata": {
         "id": "uNfbLnpJI1fi"
       },
-      "execution_count": 8,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -65,7 +65,7 @@
         "id": "IoF_0kDpJFpq",
         "outputId": "b0c52645-dfc4-4348-c8c0-58e5fcaf2b0f"
       },
-      "execution_count": 9,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "display_data",
@@ -298,7 +298,7 @@
         "id": "Mqwy0xR8Qg9I",
         "outputId": "9c71a907-3a5f-4ae9-8cb2-2ed09f068acf"
       },
-      "execution_count": 10,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -478,7 +478,7 @@
         "id": "o2YxRmSAZQa5",
         "outputId": "45f6d0cf-f904-4da9-876d-a935983a8298"
       },
-      "execution_count": 11,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -587,7 +587,7 @@
         "id": "pqpFsaDhZlZa",
         "outputId": "09eccf95-212f-45a1-d318-c66e16101dd9"
       },
-      "execution_count": 12,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -747,7 +747,7 @@
         "id": "3zhtGVujZp-C",
         "outputId": "5175cdaa-e232-4786-86c9-13b771144ab6"
       },
-      "execution_count": 13,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -827,7 +827,7 @@
         "id": "PV1XshXbZwXB",
         "outputId": "835c2fee-7559-404d-88af-f2af17fb43dd"
       },
-      "execution_count": 14,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -915,7 +915,7 @@
         "id": "rPqUJayyZywo",
         "outputId": "259e1bb6-afea-4b34-f664-fc0bf7b23248"
       },
-      "execution_count": 15,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -998,7 +998,7 @@
         "id": "MQcrRtn2Z1jn",
         "outputId": "2927c084-06ef-4713-d6a4-984937ac18f4"
       },
-      "execution_count": 16,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -1078,7 +1078,7 @@
         "id": "uUoxuYcuZ43c",
         "outputId": "0e7340c0-45b7-4db6-e962-93df1da093e6"
       },
-      "execution_count": 17,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "display_data",
@@ -1232,7 +1232,7 @@
         "id": "obLP69NwZ8-_",
         "outputId": "97805fbf-1eb8-45d9-ca76-071a60566198"
       },
-      "execution_count": 18,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -1389,7 +1389,7 @@
         "id": "qNLTOCtcaEwB",
         "outputId": "d8b2e0c2-b44a-4fea-eac9-5d44f984d7a7"
       },
-      "execution_count": 19,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -1529,7 +1529,7 @@
         "id": "c_R2WPehPGhs",
         "outputId": "823ebad0-3934-479d-c40c-8ddf3237161a"
       },
-      "execution_count": 20,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -1696,7 +1696,7 @@
         "id": "iUoclp0BWYFm",
         "outputId": "b88dbe09-ad10-4e0c-beb4-ae74e4faa287"
       },
-      "execution_count": 25,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -1773,7 +1773,7 @@
         "id": "f3IXff14WaHi",
         "outputId": "13df19d2-9f7b-4b44-d75e-1939ed071e7f"
       },
-      "execution_count": 26,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
