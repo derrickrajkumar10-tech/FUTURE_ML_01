@@ -1,61 +1,74 @@
-# 📊 AI-Powered Sales Forecasting Dashboard
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=AI%20Sales%20Forecasting&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Prophet%20%2B%20Power%20BI%20%E2%80%94%20forecasting%20that%20actually%20works&descAlignY=62&descSize=18"/>
+</div>
 
-## The Challenge 🎯
+<div align="center">
 
-Retail businesses lose millions annually due to poor inventory planning. Can we predict sales 3 months ahead with machine learning?
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![Prophet](https://img.shields.io/badge/Prophet-0D1117?style=for-the-badge&logo=meta&logoColor=0081FB)
+![Power BI](https://img.shields.io/badge/Power%20BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811)
+![Jupyter](https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=F37626)
+![License](https://img.shields.io/badge/License-MIT-0D1117?style=for-the-badge)
 
-## The Solution 💡
+</div>
 
-I built an end-to-end forecasting system that:
-- Analyzes 4 years of retail transaction data
-- Predicts future sales with 87% accuracy
-- Identifies seasonal patterns automatically
-- Delivers insights via interactive dashboard
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
 
-## The Technology 🛠️
+## 📈 About
 
-**Machine Learning**: Facebook Prophet for time series forecasting  
-**Data Processing**: Python (Pandas, NumPy, Scikit-learn)  
-**Visualization**: Power BI Desktop  
-**Development**: Google Colab
+AI-powered sales forecasting pipeline using **Facebook Prophet** for time-series prediction and **Power BI** for interactive business dashboards.
 
-## The Results 📈
+Feed it historical sales data. Get future forecasts with confidence intervals, seasonality breakdowns, and trend analysis — all visualised in Power BI for stakeholders.
 
-✅ **87% forecast accuracy** (MAPE: 12.5%)  
-✅ **Identified 40% Q4 revenue spike** → Better inventory planning  
-✅ **Predicted 30% January decline** → Proactive promotions  
-✅ **Interactive dashboard** for stakeholder decision-making  
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
 
-## The Impact 💼
+## ✨ Features
 
-This system enables businesses to:
-- Reduce stockouts by 25%
-- Optimize inventory costs by $50K+ annually
-- Make data-driven staffing decisions
-- Plan promotions based on predicted trends
+- 📅 **Time-series forecasting** — Prophet captures seasonal patterns, trends, and holiday effects
+- 📊 **Power BI dashboards** — interactive, business-ready visualisations
+- 🔁 **Full pipeline** — raw sales data → cleaned → forecast → dashboard
+- 📐 **Confidence intervals** — uncertainty quantified for every prediction
+- 🧩 **Modular notebooks** — easy to adapt to your own dataset
 
-## The Journey 🚀
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
 
-1. **Data Exploration** → Discovered strong seasonal patterns
-2. **Feature Engineering** → Created 15+ temporal features
-3. **Model Training** → Tested Prophet, tuned hyperparameters
-4. **Dashboard Design** → Built interactive Power BI reports
-5. **Business Insights** → Translated ML into actionable recommendations
+## 🛠 Tech Stack
 
-## View the Project
+| Layer | Technology |
+|-------|-----------|
+| **Language** | Python 3.x |
+| **Forecasting** | Facebook Prophet |
+| **Data** | Pandas · NumPy |
+| **Visualisation** | Matplotlib · Power BI |
+| **Notebooks** | Jupyter |
 
-📓 [Notebook](notebooks) | 📊 [Dashboard](dashboards) | 📈 [Data](data)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
 
-## What I Learned
+## 🚀 Getting Started
 
-- Time series forecasting at scale
-- Translating technical metrics into business value
-- End-to-end ML project management
-- Data storytelling and visualization
+```bash
+git clone https://github.com/derrickrajkumar10/AI-powered-Sales-Forecasting.git
+cd AI-powered-Sales-Forecasting
 
----
+pip install -r requirements.txt
 
-**Author**: [Derrick Rajkumar](https://www.linkedin.com/in/derrick-rajkumar-8391781bb/)  
-**Connect**: [GitHub](https://github.com/derrickrajkumar10-tech) | [Email](mailto:derrick.rajkumar10@gmail.com)
+# Open the forecasting notebook
+jupyter notebook notebooks/
+```
 
-⭐ Star this repo if you found it useful!
+For Power BI dashboards, open the `.pbix` files in the `dashboards/` folder using Power BI Desktop.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
+
+## 📁 Project Structure
+
+```
+├── notebooks/       # Jupyter notebooks — EDA, modelling, forecasting
+├── dashboards/      # Power BI .pbix dashboard files
+├── data/            # Raw and processed sales data
+└── requirements.txt
+```
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+</div>
